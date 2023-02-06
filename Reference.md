@@ -1,3 +1,8 @@
+---
+title: Reference
+layout: default
+---
+
 Reference
 =========
 

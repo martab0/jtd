@@ -1,3 +1,8 @@
+---
+title: Markdown
+layout: default
+---
+
 <!-- Example of title -->
 # My exercise in Markdown<!-- omit in toc -->
 
