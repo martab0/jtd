@@ -85,7 +85,7 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of an image from local file -->
 
-![SVG image](./images/image_with_text_eng.svg)
+![SVG image](../images/image_with_text_eng.svg)
 
 *The text on this image is a quote from [Sir Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill), the Prime Minister of the UK during World War II.*
 
@@ -95,7 +95,7 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of an image with hover text -->
 
-![PNG image](./images/inglisz.jpg "This flag does not exist")
+![PNG image](../images/inglisz.jpg "This flag does not exist")
 
 This is a non-existing flag, a combination of the US, UK, EU, and Canada flags.
 
