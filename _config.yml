@@ -7,4 +7,8 @@ url: https://martab0.github.io/jtd
 aux_links:
   Template Repository: https://github.com/martab0/jtd
 
+aux_links_new_tab: false
+
 color_scheme: dark
+
+logo: "/images/niepojete_logo.png"
