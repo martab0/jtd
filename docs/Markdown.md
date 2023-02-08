@@ -79,7 +79,7 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of link to another file -->
 
-[Additional information](Reference.md)
+[Additional information](Reference#reference)
 
 ## Images
 
