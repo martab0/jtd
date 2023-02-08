@@ -12,3 +12,5 @@ aux_links_new_tab: true
 color_scheme: dark
 
 logo: "/images/niepojete_logo.jpg"
+
+heading_anchors: true
