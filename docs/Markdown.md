@@ -158,3 +158,5 @@ Ordered list:
 Table has ended but I need to add an empty line because it's Markdown!
 
 <!-- Above: a paragraph after a table -->
+
+More information in [this chapter](Markdown_The_Lesser_Evil#editors)
